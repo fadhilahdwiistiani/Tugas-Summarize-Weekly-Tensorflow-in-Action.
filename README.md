@@ -2,8 +2,10 @@
 # 📘 TensorFlow in Action
 # 🚀 From Fundamentals to Production-Ready Deep Learning
 
+> Team: Fadhilah Dwi Istiani, Wilhelmina Arlene Simbolon, Luthfiah Maulidya Nurhasni
 > A concise and practical journey through TensorFlow,  
 > from building deep learning models to deploying them in production.
+
 
 ---
 
